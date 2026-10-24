@@ -1,0 +1,14 @@
+{
+  "name": "taste-skill",
+  "description": "tasteskill v2 (Leonxlnx/taste-skill), repackaged for install-by-URL in Cowork and Claude Code.",
+  "owner": {
+    "name": "krystianaskywetzel-eng"
+  },
+  "plugins": [
+    {
+      "name": "taste-skill",
+      "source": "./plugins/taste-skill",
+      "description": "Art direction for websites, product pages, dashboards and app screens, with a library of researched directions and a real-browser inspector."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "taste-skill",
+  "description": "tasteskill v2: art direction for websites, product pages, dashboards and app screens, with researched directions, real photographs, and a real-browser inspector.",
+  "version": "2.1.4",
+  "author": {
+    "name": "leonxlnx",
+    "url": "https://github.com/Leonxlnx"
+  },
+  "homepage": "https://github.com/krystianaskywetzel-eng/taste-skill-plugin",
+  "license": "MIT",
+  "keywords": ["skills", "frontend", "design", "taste", "ui", "dashboard"]
+}
